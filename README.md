@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @poornimapk
-- 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning HTML, CSS, JavaScript, NodeJS, MongoDB and React
+- 👀 I’m interested in Backend Engineering and Full Stack Web Development
+- 🌱 Tech Stack: Scala, Java, JavaScript, MongoDB, PostgreSQL
 - 💞️ I’m looking to collaborate on building websites for small businesses and empowering them to business better.
 - 📫 Reach me at Twitter: https://twitter.com/poornimapk or LinkedIn: https://www.linkedin.com/in/poornimapk/
 <!---
