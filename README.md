@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @poornimapk
 - 👀 I’m interested in Backend Engineering and Full Stack Web Development
-- 🌱 Tech Stack: Scala, Java, JavaScript, MongoDB, PostgreSQL
+- 🌱 Tech Stack: Python, Scala, Java, JavaScript, MongoDB, PostgreSQL, Milvus
 - 💞️ I’m looking to collaborate on building websites for small businesses and empowering them to business better.
 - 📫 Reach me at Twitter: https://twitter.com/poornimapk or LinkedIn: https://www.linkedin.com/in/poornimapk/
 <!---
